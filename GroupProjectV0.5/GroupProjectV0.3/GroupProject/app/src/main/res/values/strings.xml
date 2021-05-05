@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Match Em</string>
+    <string name="buttonPlayText">Click Here To Play!</string>
+    <string name="buttonPlayTextAgain">Play Again? Click Here!</string>
+    <string name ="settings_name">Settings Menu</string>
+    <string name ="score_name">Score Menu</string>
+
+    <string name="buttonEnterName">Submit Name</string>
+
+    <!-- score card strings -->
+    <string name="textViewScore">Score:</string>
+    <string name="textViewYourScores">Your Scores</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_settings">Settings Activity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Player Name</string>
+    <string name="sync_header">Light/Dark Mode</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Please enter your name</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Enable Dark Mode</string>
+</resources>
